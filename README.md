@@ -133,7 +133,10 @@ Target areas include:
 - SaaS Technical Support
 
 ---
+## 📫 Connect with Me
 
-## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/alice-afolabi/)
+- 💻 [Upwork](https://www.upwork.com/freelancers/~018e98747bcf1767c3?mp_source=share)
+- 📧 [Email](aliceafolabi2022@gmail.com)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/alice-afolabi/)
+
