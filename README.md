@@ -1,136 +1,48 @@
 # Hi, I am Alice Afolabi 
 
-### Technical Customer Success | Cloud Security | DevSecOps
+### 🚀 Cloud & DevOps Engineer
 
-I bridge customer outcomes and technology by combining Customer Success, technical support, cloud infrastructure and security best  practices.
-
-I build practical projects that demonstrate how technical solutions can improve customer onboarding, adoption, reliability, security and operational efficiency.
+I build, automate, and scale reliable cloud infrastructure and CI/CD pipelines. My work focuses on Infrastructure as Code (IaC), containerization, observability, and implementing security best practices across cloud environments.
 
 ---
 
-## 🛠️ Technical Toolkit
+### 🛠️ Tech Stack & Tools
 
-### ☁️ Cloud
+* **Cloud Providers:** AWS | Azure
+* **Infrastructure as Code:** Terraform
+* **Containers & Orchestration:** Docker | Kubernetes
+* **CI/CD & Automation:** GitHub Actions | Git | Bash | Python
+* **Monitoring & Observability:** Prometheus | Grafana | CloudWatch
+* **Operating Systems:** Linux (Ubuntu, RHEL)
 
-- AWS
-- Microsoft Azure
-- EC2
-- S3
-- IAM
-- CloudWatch
-- CloudTrail
-- AWS Config
 
-### 🐧 Linux & Automation
+### 📌 Featured Hands-On Projects
 
-- Linux
-- Bash
-- PowerShell
+#### 🌐 [Project 1: Multi-Tier Web App Deployment](#)
+* Designed a high-availability cloud architecture using AWS/Azure compute, custom VPC networking, and load balancing.
+* Containerized application services using Docker and managed secure, isolated subnets.
 
-### 🔧 DevOps
+#### ⚙️ [Project 2: Infrastructure as Code & Automated CI/CD](#)
+* Provisioned full cloud infrastructure programmatically using modular **Terraform**.
+* Built an automated **GitHub Actions** pipeline to test code, build Docker images, and auto-deploy infrastructure.
 
-- Git
-- GitHub
-- GitHub Actions
-- Docker
-- Kubernetes
-- Terraform
-- CI/CD
-
-### 🔐 Cloud Security & DevSecOps
-
-- IAM & access management
-- Security monitoring
-- Cloud configuration and compliance
-- Infrastructure as Code security
-- CI/CD security concepts
-- DevSecOps practices
-
-### 🤝 Customer Success & Technical Operations
-
-- Customer Onboarding
-- Customer Adoption
-- Technical Support
-- Customer Health Monitoring
-- Customer Success Operations
-- Technical Account Management
-- SaaS Workflows
-- Knowledge Management
-- CRM & Customer Data
-
-### 📊 Tools
-
-- GitHub
-- Jira
-- HubSpot
-- Zendesk
-- Slack
-- Notion
-- Zapier
-- Microsoft 365
+#### 📊 [Project 3: Cloud Observability & Auto-Scaling](#)
+* Implemented system health monitoring and log visualization using **Prometheus and Grafana**.
+* Configured automated alerts and cloud auto-scaling policies to handle traffic spikes.
 
 ---
 
-## 🚀 Featured Projects
-
-### Customer Success Operating System (CSOS)
-
-A strategic Customer Success framework designed around customer acquisition, onboarding, activation, adoption, retention, expansion, and advocacy.
-
-**Focus:** Customer Success Strategy | Lifecycle Design | Adoption | Retention | Expansion
-
-🔗 [View Project](https://github.com/aliceafolabi/Customer-Success-Operating-System)
 
 ---
 
-### Cloud / DevOps Projects
-
-Hands-on projects covering Linux, AWS, infrastructure, automation, containers, CI/CD, and cloud operations.
-
-**Focus:** AWS | Linux | Terraform | Docker | Kubernetes | CI/CD
-
-🔗 [View Projects](#)
 
 ---
 
-### Cloud Security & DevSecOps Projects
-
-Practical projects exploring cloud security, identity and access management, secure infrastructure, monitoring, and security within development workflows.
-
-**Focus:** Cloud Security | IAM | DevSecOps | Security Automation
 
 ---
 
-## 📚 Currently Building
 
-- AWS Cloud Engineering
-- Microsoft Azure
-- DevSecOps
-- Cloud Security
-- Kubernetes
-- Terraform
-- Cloud-native technologies
-- Open source contributions
 
-I learn by building, documenting, and applying concepts to practical projects.
-
----
-
-## 🎯 Professional Focus
-
-I am particularly interested in roles that sit at the intersection of:
-
-**Customer Success + Technology + Cloud + Security**
-
-Target areas include:
-
-- Technical Customer Success
-- Technical Account Management
-- Customer Success Engineering
-- Cloud Support
-- Cloud Security
-- DevSecOps
-- SaaS Technical Support
 
 ---
 ## 📫 Connect with Me
