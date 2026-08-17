@@ -16,19 +16,8 @@ I build, automate, and scale reliable cloud infrastructure and CI/CD pipelines. 
 * **Operating Systems:** Linux (Ubuntu, RHEL)
 
 
-### 📌 Featured Hands-On Projects
+#### Hands on featured projects
 
-#### 🌐 [Project 1: Multi-Tier Web App Deployment](#)
-* Designed a high-availability cloud architecture using AWS/Azure compute, custom VPC networking, and load balancing.
-* Containerized application services using Docker and managed secure, isolated subnets.
-
-#### ⚙️ [Project 2: Infrastructure as Code & Automated CI/CD](#)
-* Provisioned full cloud infrastructure programmatically using modular **Terraform**.
-* Built an automated **GitHub Actions** pipeline to test code, build Docker images, and auto-deploy infrastructure.
-
-#### 📊 [Project 3: Cloud Observability & Auto-Scaling](#)
-* Implemented system health monitoring and log visualization using **Prometheus and Grafana**.
-* Configured automated alerts and cloud auto-scaling policies to handle traffic spikes.
 
 ---
 
