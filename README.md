@@ -2,7 +2,7 @@
 
 ### 🚀 Cloud & DevOps Engineer
 
-I build, automate, and scale reliable cloud infrastructure and CI/CD pipelines. My work focuses on Infrastructure as Code (IaC), containerization, observability, and implementing security best practices across cloud environments.
+I build automate and scale reliable cloud infrastructure and CI/CD pipelines. My work focuses on Infrastructure as Code (IaC), containerization, observability, and implementing security best practices across cloud environments.
 
 ---
 
