@@ -1,6 +1,6 @@
 # Hi, I am Alice Afolabi 
 
-### 🚀 Cloud & DevOps Engineer
+### 🚀 Cloud Security & DevSecOps
 
 I build automate and scale reliable cloud infrastructure and CI/CD pipelines. My work focuses on Infrastructure as Code (IaC), containerization, observability, and implementing security best practices across cloud environments.
 
